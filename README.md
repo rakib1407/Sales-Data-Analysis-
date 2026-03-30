@@ -7,6 +7,7 @@ Further analysis was performed to identify monthly sales trends, top-selling pro
 This project demonstrates practical skills in data preprocessing, data analysis, and extracting actionable insights without relying on visualization tools.
 
 Tools & Technologies
+
 Python
 Pandas
 NumPy
